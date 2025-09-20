@@ -21,7 +21,7 @@ Focusing on simplicity and efficiency, this application offers the following pro
 
 ## 📥 Download & Usage
 
-To use the application, you don't need to install Python or any other tools. Simply download the appropriate version for your operating system from the **Releases** section of this page and run it.
+To use the application, you don't need to install Python or any other tools. Simply download the appropriate version for your operating system from the [**Releases**](https://github.com/cheetahcoder/LAN-Share/releases/tag/v1.0.0) section of this page and run it.
 
 ### How to Use:
 
